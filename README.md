@@ -17,8 +17,8 @@ The general steps that you follow are:
 
 1. Identify the overall problem 
 2. Break it in to smaller tasks
-3. Write psudeo code for tasks
-4. Convert psudeo code to the programming language of your choice
+3. Write pseudo-code for tasks
+4. Convert pseudo-code to the programming language of your choice
 5. Test 
 6. Document your solution
 
