@@ -6,7 +6,7 @@ def what_kind_week(day):
         1: "Weekend",
         2: "Weekday",
         3: "Weekday",
-        4: "Weekday",
+        4: "Weekday",[]
         5: "Weekday",
         6: "Weekday",
         7: "Weekday",
