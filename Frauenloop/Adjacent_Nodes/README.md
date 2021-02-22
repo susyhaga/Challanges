@@ -41,6 +41,7 @@ Adjacency Matrix:
 
 
 Nodes 0,1 should return True.
+
 Nodes 0,2 should return False.
 
 # Graph Example 2
@@ -55,8 +56,10 @@ Nodes 0,2 should return False.
 
 
 Nodes 0,3 should return True.
+
 Nodes 1,4 should return False.
 
 # Notes
 Graphs may have between 0 and 25,000 nodes.
+
 Time Limit: 100 milliseconds.
