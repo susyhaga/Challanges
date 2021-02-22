@@ -38,6 +38,8 @@ Adjacency Matrix:
   [ 0, 1, 0, 1 ],
   [ 0, 1, 1, 0 ]
 ]
+
+
 Nodes 0,1 should return True.
 Nodes 0,2 should return False.
 
@@ -50,6 +52,8 @@ Nodes 0,2 should return False.
   [ 1, 0, 1, 0, 1 ],
   [ 1, 0, 0, 1, 0 ]
 ]
+
+
 Nodes 0,3 should return True.
 Nodes 1,4 should return False.
 
