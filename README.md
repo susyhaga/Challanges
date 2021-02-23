@@ -1,6 +1,6 @@
 # Coding Challenges
 
-Every developer needs to build their skills and coding challenges are a good way to do this. This repo is an example that I provide for students to show them, 
+Every developer needs to build their skills and coding challenges are a good way to do this. This repo is an example that I provide for you to show them, 
 
 * a sample structure for their repo, 
 * demonstrate some challenges and solutions in various languages, 
@@ -27,4 +27,4 @@ You will often need to do steps 3-5 multiple times as there are factors that you
 ## Languages
 
 Python
-Javascript
+
